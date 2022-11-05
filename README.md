@@ -1,12 +1,10 @@
 # Muscle Therapy Massage
 
 ## Purpose
-
 - SME informational website
 - System booking for multiple locations
 
 ## Functionality / features
-
 Responsive Mobile First Design
 Typical SME informational website
 Booking system integration via Square API
@@ -15,41 +13,39 @@ Content management system
 
 
 ## Target audience
-
 Massage/ Remedial massage target market in Port Macquarie, Focus on seniors
 
 ## Tech stack 
-
 ### Front-End
-
 - UI Library: React 
 - Component Library: ChakraUI
+- HTTP Client: Axios
 - Fonts: Google Fonts
 
 ### Backend
-
 - Runtime: Nodejs
 - DataBase: MongoDB
-- Server Framework: Express
+- Server Framework: ExpressJS
 - User Authentication: Firebase
 - Booking System: Square
 
 ### Hosting
-
 - Database: Mongodb Atlas
 - Backend: Heroku 
 - Content Storage: AWS Simple Storage Service
 
 ### Devops
-
-- Code Testing: Jest, 
+- Code Testing: Jest
 - API / HTTP Testing, postman
-- User Testing: Seleniun
+- User & Browser Testing: Seleniun
 - Documentation: JSDoc
 - CICD system: Github Actions
 
-### Version Control
+### Dev Tools
+- Formatting: ESLint
+- Linting: ESLint
 
+### Version Control
 - Software: Git
 - Remote repo provider: Github
 

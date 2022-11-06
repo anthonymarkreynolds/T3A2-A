@@ -1,15 +1,10 @@
 # Muscle Therapy Massage
 
 ## Purpose
-- SME informational website
-- System booking for multiple locations
+The Muscle Therapy Massage web application connects consumers seeking remedial massage in the port Macquarie area with the Muscle Therapy Massage company. This application enables the business owner to manage site content and user data via an Admin panel. Handles legal consent forms.
 
 ## Functionality / features
-Responsive Mobile First Design
-Typical SME informational website
-Booking system integration via Square API
-Consent form 
-Content management system
+The app’s primary system is an accessibility focused informational website that has an integrated booking system with consent forms. An admin panel with site/content management capabilities forms the other core feature of this web application. User bookings synchronise with third party calendar providers. 
 
 
 ## Target audience
